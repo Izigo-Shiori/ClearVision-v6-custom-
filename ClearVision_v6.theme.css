@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/1040805656820723844/1080829784709402654/329740-Gate_Jieitai_Kanochi_nite_Kaku_Tatakaeri-anime-anime_girls-Rory_Mercury.jpg?ex=65a91a2d&is=6596a52d&hm=192d6c1cd48464ee035b72ac80166e0d1f509e3f7df7c2b1488465fd6d4185d9&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
